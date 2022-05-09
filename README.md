@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avik Makwana</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 
-<p align="left"> <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="avikmakwana" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avikmakwana&label=Profile%20views&color=0e75b6&style=flat" alt="avikmakwana" /> </p>
 
 - 🔭 I’m currently working on **E-Bazar (An E-Commerce App)**
 
@@ -20,7 +20,7 @@
 <a href="https://stackoverflow.com/users/18872110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18872110" height="30" width="40" /></a>
 <a href="https://www.facebook.com/people/Avik-Makwana/100068897556361/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avikmakwana" height="30" width="40" /></a>
 <a href="https://instagram.com/avikmakwana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avikmakwana" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCy2sl3eqIrmvAGM2fPOe2BQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avikmakwana" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/avikmakwana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avikmakwana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
