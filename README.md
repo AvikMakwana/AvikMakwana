@@ -18,9 +18,9 @@
 <a href="https://twitter.com/avikmakwana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avikmakwana" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/avinash-makwana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash-makwana" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18872110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18872110" height="30" width="40" /></a>
-<a href="https://fb.com/avikmakwana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avikmakwana" height="30" width="40" /></a>
+<a href="https://www.facebook.com/people/Avik-Makwana/100068897556361/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avikmakwana" height="30" width="40" /></a>
 <a href="https://instagram.com/avikmakwana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avikmakwana" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/avikmakwana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avikmakwana" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCy2sl3eqIrmvAGM2fPOe2BQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avikmakwana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
