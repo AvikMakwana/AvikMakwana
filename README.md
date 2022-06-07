@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **E-Bazar (An E-Commerce App)**
 
-- 🌱 I’m currently learning **Android, iOS and React Native**
+- 🌱 I’m currently learning **Android and JAVA DSA**
 
 - 💬 Ask me about **Android, Web Development**
 
