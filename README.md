@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avikmakwana&label=Profile%20views&color=0e75b6&style=flat" alt="avikmakwana" /> </p>
 
-- 🔭 I’m currently working on **E-Bazar (An E-Commerce App)**
+- 🔭 I’m currently working on **E-Bazar (An E-Commerce App)** and **Clinic Management App**
 
 - 🌱 I’m currently learning **Android and JAVA DSA**
 
