@@ -7,7 +7,7 @@
 - 🚀 I’ve innovated apps like **FieldForce**, **Tinni-X**, and **WeHear** to enhance connectivity and improve quality of life through technology.
 - 🌱 I’m continuously learning about **advanced Android architectures and real-time data processing** to push the boundaries of app development.
 - 💬 Ask me about **Android Development, real-time communication solutions, and leveraging technology for accessible applications**.
-- 📫 How to reach me: **avikmakwana81@gmail.com**
+- 📫 How to reach me: **workwithavik@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
