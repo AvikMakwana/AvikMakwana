@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avikmakwana&label=Profile%20views&color=0e75b6&style=flat" alt="avikmakwana" /> </p>
 
-- 🔭 I’m currently leading development on **WeConverse** and **WeTalkie**, pioneering in real-time multilingual communication tools.
+- 🔭 I’m currently leading development on **WeHear**, **WeConverse** and **WeTalkie**, pioneering in real-time multilingual communication tools.
 - 🚀 I’ve innovated apps like **FieldForce**, **Tinni-X**, and **WeHear** to enhance connectivity and improve quality of life through technology.
 - 🌱 I’m continuously learning about **advanced Android architectures and real-time data processing** to push the boundaries of app development.
 - 💬 Ask me about **Android Development, real-time communication solutions, and leveraging technology for accessible applications**.
